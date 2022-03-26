@@ -10,9 +10,19 @@ class MainActivity : AppCompatActivity() {
     fun logging () {
         Log.v(TAG, "Hello World")
     }
+
+    fun division() {
+        val numerator = 60
+        var denominator = 4
+        repeat (5) {
+            Log.v(TAG, "${numerator / denominator}")
+            denominator = denominator - 1
+        }
+    }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         logging()
+        division()
     }
 }
