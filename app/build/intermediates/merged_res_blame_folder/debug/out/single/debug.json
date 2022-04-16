@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\layout_vertical_horizontal_list_item.xml.flat",
-        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\vertical_horizontal_list_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vertical_list.xml.flat",
         "source": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\activity_vertical_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\layout_vertical_horizontal_list_item.xml.flat",
+        "source": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\vertical_horizontal_list_item.xml"
     },
     {
         "merged": "C:\\Users\\Asus\\AndroidStudioProjects\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bella.jpg.flat",
